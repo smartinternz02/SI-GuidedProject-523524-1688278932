@@ -2,7 +2,8 @@
 
 🎥 Project Demo Video Link : [Click Here](https://drive.google.com/file/d/1OcqU1jD7n4bznouzC8qJUNGPhhIF2FU6/view?usp=sharing)<br>
 👨‍💻 Colab Link: [Click Here](https://colab.research.google.com/drive/1pVjHidnB62aPjQ_YM7kZWBUqktENaZkQ?usp=sharing)<br>
-📝 Project Report:  [Click Here](https://drive.google.com/file/d/1Mb2VN6lbkbHfV__rxIA0h5h7Q9vCm2XK/view?usp=sharing)
+📝 Project Report:  [Click Here](https://drive.google.com/file/d/1Mb2VN6lbkbHfV__rxIA0h5h7Q9vCm2XK/view?usp=sharing)<br>
+💻 Personal Git Repo:  [Click Here](https://github.com/madhusmita1307/Time_Series_Analysis-Bitcoin_Price_Prediction_Prophet)<br>
 
 This repository hosts a collection of code and data for performing Time Series Analysis on Bitcoin price data. The pre-trained Prophet model leverages historical price and market data to forecast future trends and fluctuations in the Bitcoin market. The code provides comprehensive tools for data preprocessing, feature engineering, model training, and evaluation. It serves as a valuable resource for researchers, enthusiasts, and developers interested in Bitcoin price prediction using time series analysis techniques.
 
